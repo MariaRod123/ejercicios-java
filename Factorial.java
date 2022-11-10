@@ -16,7 +16,7 @@ public class Factorial {
                 for (int i = num; i > 0; i--) {
                     n = n * i * 1;
                 }
-                System.out.println(+num + "!" + "=" + n);
+                System.out.println( num + "!" + "=" + n);
 
             } else
                 System.out.println(error);
