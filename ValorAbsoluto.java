@@ -5,7 +5,7 @@ public class ValorAbsoluto {
 
         /* programa que calcula el valor absoluto de un número
          
-        Definición :  |x|= x si x es un número real distinto de 0 ; si x=0 --> |x|=0
+        Definición :  |x|= x ó |-x|= x para x!=0 ; si x=0 --> |x|=0
 
         */
 
